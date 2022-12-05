@@ -239,7 +239,7 @@ end
 ```
 
 Now if you navigate to `localhost:3000/movies/1/summary` in the browser, you
-should see:
+should se
 
 ```json
 {
